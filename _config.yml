@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Zeno's Blog
-brief-intro: THE QUIETER YOU BECOME, THE MORE YOU ARE ABLE TO HEAR.
+title: Zeno
+brief-intro: Easy does it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://liulanjie.github.io" # the base hostname & protocol for your site
+url: "http://zeno.pro" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -21,9 +21,9 @@ email: zeno0xfa@gmail.com
 weibo_username: 
 zhihu_username: 
 linkedIn_username: 
-dribbble_username:
+dribbble_username: 
 
-description_footer: THE QUIETER YOU BECOME, THE MORE YOU ARE ABLE TO HEAR.
+description_footer: 本站记录我编程之旅的沿途风景！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
