@@ -27,6 +27,11 @@ Markdown 的目标是实现「易读易写」。
   [5]: http://www.triptico.com/software/grutatxt.html
   [6]: http://ettext.taint.org/doc/
 
+
+
+
+
+
 因此 Markdown 的语法全由标点符号组成，并且经过慎重的选择，是为了让它们看起来就像所要表达的意思。像是在文字两旁加上星号，看起来就像 `\*强调\*`。Markdown 的列表看起来，嗯，就是列表。假如你有使用过电子邮件，区块引言看起来就真的像是引用一段文字。
 
 ### 行内 HTML
